@@ -1,0 +1,7 @@
+div#myDiagramDiv {
+    width:1400px; 
+    height:1000px; 
+    background-color: ##AAAAAA;
+    border-color: black;
+    border: solid 2px;
+}
